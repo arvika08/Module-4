@@ -1,4 +1,4 @@
-# Exp.No:16  
+# Exp.No:4.b
 ## DICTIONARY -Write a program to check whether a given key exists in a dictionary or not.
 
 ---
