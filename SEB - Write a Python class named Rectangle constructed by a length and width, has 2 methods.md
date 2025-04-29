@@ -1,4 +1,4 @@
-# Exp.No:20  
+# Exp.No:4.e
 ## SEB - Write a Python class named Rectangle constructed by a length and width, has 2 methods.
 
 ---
